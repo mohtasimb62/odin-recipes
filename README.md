@@ -15,6 +15,10 @@ The website structure is straightforward and consists of the following component
 
 - _lasagna.html, shawarma.html, kabsa.html:_ These are individual recipe pages, each with its own unique content and instructions.
 
+- _images:_ This folder contains all the images for the recipes.
+
+- _recipes:_ This folder contains the _lasagna.html, shawarma.html, kabsa.html._
+
 Feel free to modify the structure as per your requirements or add more recipes to expand the website.
 
 ## Contributing
