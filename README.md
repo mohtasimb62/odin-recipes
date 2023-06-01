@@ -11,8 +11,9 @@ Please note that this project does not focus on aesthetics or visual design. It 
 ## Website Structure
 The website structure is straightforward and consists of the following components:
 
-index.html: The main page of the website, serving as the entry point for users. It contains links to various recipe pages.
-lasagna.html, shawarma.html, kabsa.html: These are individual recipe pages, each with its own unique content and instructions.
+- _index.html:_ The main page of the website, serving as the entry point for users. It contains links to various recipe pages.
+
+- _lasagna.html, shawarma.html, kabsa.html:_ These are individual recipe pages, each with its own unique content and instructions.
 
 Feel free to modify the structure as per your requirements or add more recipes to expand the website.
 
